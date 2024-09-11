@@ -53,11 +53,7 @@
 ## 9. Add CSS for Styling
 - Add basic styles in `styles.css` to center the card, set the font, and size elements appropriately.
 - Make the page visually resemble the card in the image.
-- Stage and commit these changes:
-  ```bash
-  git add styles.css
-  git commit -m "Added basic styling to product card"
-  ```
+- Stage and commit these changes.
 
 ## 10. View Your Commit History
 - Use `git log` to see the detailed history of your commits.
