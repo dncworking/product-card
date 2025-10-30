@@ -1,0 +1,43 @@
+body {
+  cursor: default;
+
+}
+.watermelon-container {
+  width: 315px;
+
+  figure {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  img {
+    width: 100%;
+    max-width: 355px;
+    height: auto;
+    background-color: brown;
+  }
+}
+
+.watermelon {
+  padding-inline: 20px;
+
+  .watermelon__price {
+    font-weight: 300;
+  }
+  .watermelon__name {
+    font-weight: 400;
+  }
+  .watermelon__title {
+    font-weight: 300;
+  }
+  button {
+    width: 100%;
+    padding: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+  }
+  input {
+    margin-block: 20px;
+  }
+}
